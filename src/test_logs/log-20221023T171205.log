@@ -1,0 +1,6 @@
+6433 [main] INFO  com.telran.tests.TestBase - Start test with method searchBookNegativeTest with data: []
+7629 [main] INFO  com.telran.tests.TestBase - PASSED searchBookNegativeTest
+7629 [main] INFO  com.telran.tests.TestBase - ______________________________________
+15881 [main] INFO  com.telran.tests.TestBase - Start test with method searchBookPositiveTest with data: []
+18450 [main] INFO  com.telran.tests.TestBase - PASSED searchBookPositiveTest
+18450 [main] INFO  com.telran.tests.TestBase - ______________________________________

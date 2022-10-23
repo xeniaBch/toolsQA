@@ -1,10 +1,11 @@
-package com.telran.pages;
+package com.telran.pages.bookStore;
 
+import com.telran.pages.PageBase;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class LoginPage extends PageBase{
+public class LoginPage extends PageBase {
 
     public LoginPage(WebDriver driver) {
         super(driver);
