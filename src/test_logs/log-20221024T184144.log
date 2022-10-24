@@ -1,0 +1,3 @@
+9769 [main] INFO  com.telran.tests.TestBase - Start test with method switchToParentFrameTest with data: []
+11165 [main] INFO  com.telran.tests.TestBase - PASSED switchToParentFrameTest
+11165 [main] INFO  com.telran.tests.TestBase - ______________________________________

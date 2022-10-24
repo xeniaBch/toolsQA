@@ -1,6 +1,7 @@
 package com.telran.tests;
 
 import ch.qos.logback.classic.Logger;
+import com.telran.pages.PageBase;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.slf4j.LoggerFactory;
@@ -47,6 +48,8 @@ public class TestBase {
         }
         else {
             logger.info("FAILED " + result.getMethod().getMethodName());
+            String screen = "screenshots/screen" + (System.currentTimeMillis()/1000%3600) + ".png";
+            new PageBase(driver).takeScreenshot(screen);
         }
 
         logger.info("______________________________________");

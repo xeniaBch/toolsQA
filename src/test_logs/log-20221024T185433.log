@@ -1,0 +1,3 @@
+5808 [main] INFO  com.telran.tests.TestBase - Start test with method doubleClickTest with data: []
+6513 [main] INFO  com.telran.tests.TestBase - PASSED doubleClickTest
+6513 [main] INFO  com.telran.tests.TestBase - ______________________________________

@@ -1,0 +1,3 @@
+9671 [main] INFO  com.telran.tests.TestBase - Start test with method returnListOfFramesTest with data: []
+10680 [main] INFO  com.telran.tests.TestBase - PASSED returnListOfFramesTest
+10680 [main] INFO  com.telran.tests.TestBase - ______________________________________

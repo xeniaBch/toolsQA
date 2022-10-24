@@ -23,4 +23,11 @@ public class HomePage extends PageBase{
         clickWithJSExecutor(alertsFrameWindows, 0, 400);
         return new SidePanelPage(driver);
     }
+
+    @FindBy(xpath = "//div[.='Elements']")
+    WebElement elements;
+    public SidePanelPage getElements() {
+        clickWithJSExecutor(elements, 0, 300);
+        return  new SidePanelPage(driver);
+    }
 }

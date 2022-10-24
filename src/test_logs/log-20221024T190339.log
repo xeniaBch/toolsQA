@@ -1,0 +1,3 @@
+7572 [main] INFO  com.telran.tests.TestBase - Start test with method rightClickTest with data: []
+10122 [main] INFO  com.telran.tests.TestBase - PASSED rightClickTest
+10122 [main] INFO  com.telran.tests.TestBase - ______________________________________

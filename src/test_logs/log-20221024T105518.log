@@ -1,0 +1,3 @@
+7577 [main] INFO  com.telran.tests.TestBase - Start test with method handleNestedFramesTest with data: []
+29488 [main] INFO  com.telran.tests.TestBase - FAILED handleNestedFramesTest
+30289 [main] INFO  com.telran.tests.TestBase - ______________________________________

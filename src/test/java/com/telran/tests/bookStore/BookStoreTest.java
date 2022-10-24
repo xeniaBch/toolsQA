@@ -20,8 +20,7 @@ public class BookStoreTest extends TestBase {
         Assert.assertTrue(new BookStorePage(driver).takeNameofBook().contains(BookData.BOOK_NAME));
     }
 
-    @Test
-    public void searchBookNegativeTest(){
+    @Test public void searchBookNegativeTest(){
         new BookStorePage(driver).searchBook("  ");
         Assert.assertTrue(new BookStorePage(driver).verifyEmptyField().contains(""));
     }
