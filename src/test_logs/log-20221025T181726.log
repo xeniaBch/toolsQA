@@ -1,0 +1,3 @@
+9612 [main] INFO  com.telran.tests.TestBase - Start test with method openNewWindowTest with data: []
+10554 [main] INFO  com.telran.tests.TestBase - PASSED openNewWindowTest
+10554 [main] INFO  com.telran.tests.TestBase - ______________________________________

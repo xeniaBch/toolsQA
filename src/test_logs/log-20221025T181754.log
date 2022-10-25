@@ -1,0 +1,2 @@
+5808 [main] INFO  com.telran.tests.TestBase - Start test with method openNewWindowMessageTest with data: []
+58756 [main] INFO  com.telran.tests.TestBase - FAILED openNewWindowMessageTest

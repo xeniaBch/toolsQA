@@ -1,0 +1,3 @@
+7524 [main] INFO  com.telran.tests.TestBase - Start test with method switchToIframeByIndexTest with data: []
+8184 [main] INFO  com.telran.tests.TestBase - PASSED switchToIframeByIndexTest
+8184 [main] INFO  com.telran.tests.TestBase - ______________________________________

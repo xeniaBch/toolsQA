@@ -21,4 +21,16 @@ public class WindowsTests extends TestBase {
         new WindowsPage(driver).clickOnNewTabButton();
         Assert.assertTrue(new WindowsPage(driver).getTextFromNewTab().contains("page"));
     }
+
+    @Test
+    public void openNewWindowTest(){
+        new WindowsPage(driver).clickOnNewWindowButton();
+        Assert.assertTrue(new WindowsPage(driver).getTextFromNewWindow().contains("sample"));
+    }
+    @Test
+    public void openNewWindowMessageTest(){
+        new WindowsPage(driver).clickOnNewWindowMessageButton();
+        Assert.assertTrue(new WindowsPage(driver).getTextFromNewWindowMessage().contains("Knowledge"));
+
+    }
 }

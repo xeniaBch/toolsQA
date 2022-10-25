@@ -1,0 +1,3 @@
+10293 [main] INFO  com.telran.tests.TestBase - Start test with method switchToIframeByIdTest with data: []
+21160 [main] INFO  com.telran.tests.TestBase - FAILED switchToIframeByIdTest
+21853 [main] INFO  com.telran.tests.TestBase - ______________________________________
