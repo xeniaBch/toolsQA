@@ -1,6 +1,0 @@
-5548 [main] INFO  com.telran.tests.TestBase - Start test with method returnListOfFramesTest with data: []
-6982 [main] INFO  com.telran.tests.TestBase - PASSED returnListOfFramesTest
-6982 [main] INFO  com.telran.tests.TestBase - ______________________________________
-11895 [main] INFO  com.telran.tests.TestBase - Start test with method switchToIframeByIndexTest with data: []
-12583 [main] INFO  com.telran.tests.TestBase - PASSED switchToIframeByIndexTest
-12583 [main] INFO  com.telran.tests.TestBase - ______________________________________

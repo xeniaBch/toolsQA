@@ -30,4 +30,18 @@ public class HomePage extends PageBase{
         clickWithJSExecutor(elements, 0, 300);
         return  new SidePanelPage(driver);
     }
+
+    @FindBy(xpath = "//div[.='Widgets']")
+    WebElement widgets;
+    public SidePanelPage getWidgets() {
+        clickWithJSExecutor(widgets,0, 100);
+        return new SidePanelPage(driver);
+    }
+
+    @FindBy(xpath = "//div[.='Interactions']")
+    WebElement interactions;
+    public SidePanelPage getInteractions() {
+        clickWithJSExecutor(interactions, 0, 100);
+        return new SidePanelPage(driver);
+    }
 }

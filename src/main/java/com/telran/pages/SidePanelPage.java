@@ -7,6 +7,10 @@ import com.telran.pages.allertsFrameWindows.WindowsPage;
 import com.telran.pages.bookStore.LoginPage;
 import com.telran.pages.bookStore.ProfilePage;
 import com.telran.pages.elements.ButtonsPage;
+import com.telran.pages.elements.TextBoxPage;
+import com.telran.pages.interactions.DragAndDropPage;
+import com.telran.pages.widgets.MenuPage;
+import com.telran.pages.widgets.SelectMenuPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -63,5 +67,34 @@ public class SidePanelPage extends PageBase{
     public ButtonsPage selectButtons() {
         clickWithJSExecutor(buttons, 0, 500);
         return new ButtonsPage(driver);
+    }
+
+
+    @FindBy(xpath = "//span[.='Select Menu']")
+    WebElement selectMenu;
+    public SelectMenuPage getSelectMenu() {
+        clickWithJSExecutor(selectMenu, 0 ,500);
+        return new SelectMenuPage(driver);
+    }
+
+    @FindBy(xpath = "//span[.='Droppable']")
+    WebElement droppable;
+    public DragAndDropPage selectDropable() {
+        clickWithJSExecutor(droppable, 0, 500);
+        return new DragAndDropPage(driver);
+    }
+
+    @FindBy(xpath = "//span[.='Text Box']")
+    WebElement textBox;
+    public TextBoxPage selectTextBox() {
+        click(textBox);
+        return new TextBoxPage(driver);
+    }
+
+    @FindBy(xpath = "//span[.='Menu']")
+    WebElement menu;
+    public MenuPage getMenu() {
+        clickWithJSExecutor(menu, 0, 500);
+        return new MenuPage(driver);
     }
 }

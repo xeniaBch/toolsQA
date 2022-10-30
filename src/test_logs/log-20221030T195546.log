@@ -1,0 +1,19 @@
+5459 [main] INFO  com.telran.tests.TestBase - Start test with method SelectValueTest with data: []
+5520 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[.='Widgets']
+5548 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[.='Widgets']was found
+5689 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Select Menu']
+5715 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Select Menu']was found
+5852 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: withOptGroup
+5883 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: withOptGroupwas found
+7249 [main] INFO  com.telran.utils.MyListener - We have throwable -->element click intercepted: Element <div class=" css-2b097c-container" id="withOptGroup">...</div> is not clickable at point (573, 220). Other element would receive the click: <iframe frameborder="0" src="https://ec3ad7213ac6bffe8252602fb5904568.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html" id="google_ads_iframe_/21849154601,22343295815/Ad.Plus-728x90_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="728" height="90" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" role="region" aria-label="Advertisement" tabindex="0" data-google-container-id="2" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe>
+  (Session info: chrome=106.0.5249.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7JRM91AM', ip: '192.168.0.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.121, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\79538\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60968}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4859e739c479d2e2ba99e4adfdd39d2a
+7249 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+7249 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+7589 [main] INFO  com.telran.utils.MyListener - Your screenshot is here screenshots/screen3353.png
+7595 [main] INFO  com.telran.tests.TestBase - FAILED SelectValueTest
+7935 [main] INFO  com.telran.tests.TestBase - ______________________________________

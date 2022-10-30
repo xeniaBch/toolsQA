@@ -1,3 +1,0 @@
-6589 [main] INFO  com.telran.tests.TestBase - Start test with method switchToIframeByIndexTest with data: []
-17068 [main] INFO  com.telran.tests.TestBase - FAILED switchToIframeByIndexTest
-17460 [main] INFO  com.telran.tests.TestBase - ______________________________________
