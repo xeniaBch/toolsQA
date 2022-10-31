@@ -8,6 +8,7 @@ import com.telran.pages.bookStore.LoginPage;
 import com.telran.pages.bookStore.ProfilePage;
 import com.telran.pages.elements.ButtonsPage;
 import com.telran.pages.elements.TextBoxPage;
+import com.telran.pages.forms.PracticeFormPage;
 import com.telran.pages.interactions.DragAndDropPage;
 import com.telran.pages.widgets.MenuPage;
 import com.telran.pages.widgets.SelectMenuPage;
@@ -96,5 +97,12 @@ public class SidePanelPage extends PageBase{
     public MenuPage getMenu() {
         clickWithJSExecutor(menu, 0, 500);
         return new MenuPage(driver);
+    }
+
+    @FindBy(xpath = "//span[.='Practice Form']")
+    WebElement practiceForm;
+    public PracticeFormPage selectPracticeForm() {
+        click(practiceForm);
+        return new PracticeFormPage(driver);
     }
 }

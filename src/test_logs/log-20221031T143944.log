@@ -1,0 +1,61 @@
+5710 [main] INFO  com.telran.tests.TestBase - Start test with method fillStudentRegistrationFormTest with data: []
+5768 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='category-cards']/div[2]
+5807 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='category-cards']/div[2]was found
+5930 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Practice Form']
+5980 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Practice Form']was found
+6548 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+6567 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+6656 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+6708 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+6841 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+6853 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+6926 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+7120 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+7228 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+7251 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+7290 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+7332 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+7392 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+7414 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+7484 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+7500 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+7547 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+7574 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+7646 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+7687 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+7742 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+7763 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+7800 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+7822 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+7886 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: [for='gender-radio-1']
+7907 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: [for='gender-radio-1']was found
+7985 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: dateOfBirthInput
+8006 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: dateOfBirthInputwas found
+8172 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+8205 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+8217 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+8234 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+8268 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+8287 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+8287 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "December"]
+8316 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "December"]was found
+8398 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: react-datepicker__year-select
+15101 [main] INFO  com.telran.utils.MyListener - We have throwable -->Cannot locate an element using css selector=react-datepicker__year-select
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7JRM91AM', ip: '192.168.0.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: driver.version: EventFiringWebDriver
+15102 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+15103 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+15207 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: closeLargeModal
+15238 [main] INFO  com.telran.utils.MyListener - We have throwable -->no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=106.0.5249.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7JRM91AM', ip: '192.168.0.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.121, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\79538\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f54f3da408adb20156cc8ae6fea25b4
+*** Element info: {Using=id, value=closeLargeModal}
+15238 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+15239 [main] INFO  com.telran.utils.MyListener - We have throwable -->null

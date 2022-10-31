@@ -2,6 +2,7 @@ package com.telran.pages;
 
 import com.google.common.io.Files;
 import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
@@ -66,5 +67,19 @@ public class PageBase {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+    }
+
+    public void hideFooter() {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("document.querySelector('footer').style.display = 'none'");
+    }
+
+    public void clickWithRectangle(WebElement element, int i, int j){
+        Rectangle rectangle = element.getRect();
+        int offsetX = rectangle.getWidth()/i;
+        int offsetY = rectangle.getHeight()/j;
+        Actions actions = new Actions(driver);
+        actions.moveToElement(element).perform();
+        actions.moveByOffset(-offsetX, -offsetY).click().perform();
     }
 }

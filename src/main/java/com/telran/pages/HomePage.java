@@ -44,4 +44,12 @@ public class HomePage extends PageBase{
         clickWithJSExecutor(interactions, 0, 100);
         return new SidePanelPage(driver);
     }
+
+    @FindBy(xpath = "//div[@class='category-cards']/div[2]")
+    WebElement forms;
+
+    public SidePanelPage getForms() {
+        clickWithJSExecutor(forms, 0, 300);
+        return new SidePanelPage(driver);
+    }
 }
