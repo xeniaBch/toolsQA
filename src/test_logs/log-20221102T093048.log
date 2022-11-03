@@ -1,0 +1,19 @@
+8778 [main] INFO  com.telran.tests.TestBase - Start test with method registerWithJSExecutorTest with data: []
+8878 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[.='Elements']
+8925 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[.='Elements']was found
+9144 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Text Box']
+9189 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Text Box']was found
+10759 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userName
+11179 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNamewas found
+11972 [main] INFO  com.telran.utils.MyListener - We have throwable -->javascript error: Invalid or unexpected token
+  (Session info: chrome=106.0.5249.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7JRM91AM', ip: '192.168.0.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.121, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\79538\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55563}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ab77849d12051035286ea65c84bc7d9
+11975 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+11977 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+12810 [main] INFO  com.telran.utils.MyListener - Your screenshot is here screenshots/screen1860.png
+12825 [main] INFO  com.telran.tests.TestBase - FAILED registerWithJSExecutorTest
+13385 [main] INFO  com.telran.tests.TestBase - ______________________________________

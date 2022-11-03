@@ -1,0 +1,17 @@
+7511 [main] INFO  com.telran.tests.TestBase - Start test with method checkBoxWithJSExecutorTest with data: []
+7568 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='category-cards']/div[2]
+7595 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='category-cards']/div[2]was found
+7766 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Practice Form']
+7790 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Practice Form']was found
+8970 [main] INFO  com.telran.utils.MyListener - We have throwable -->javascript error: windows is not defined
+  (Session info: chrome=106.0.5249.121)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7JRM91AM', ip: '192.168.0.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.121, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\79538\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58703}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0ab4431486f86166d07431c93912db10
+8971 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+8972 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+10013 [main] INFO  com.telran.utils.MyListener - Your screenshot is here screenshots/screen2326.png
+10099 [main] INFO  com.telran.tests.TestBase - FAILED checkBoxWithJSExecutorTest
+10913 [main] INFO  com.telran.tests.TestBase - ______________________________________

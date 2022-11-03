@@ -12,6 +12,7 @@ import com.telran.pages.forms.PracticeFormPage;
 import com.telran.pages.interactions.DragAndDropPage;
 import com.telran.pages.widgets.MenuPage;
 import com.telran.pages.widgets.SelectMenuPage;
+import com.telran.pages.widgets.ToolTipsPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -104,5 +105,13 @@ public class SidePanelPage extends PageBase{
     public PracticeFormPage selectPracticeForm() {
         click(practiceForm);
         return new PracticeFormPage(driver);
+    }
+
+    @FindBy(xpath = "//span[.='Tool Tips']")
+    WebElement toolTips;
+
+    public ToolTipsPage getToolTips() {
+        clickWithJSExecutor(toolTips,0,500);
+        return new ToolTipsPage(driver);
     }
 }

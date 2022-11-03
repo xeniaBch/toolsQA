@@ -185,4 +185,6 @@ public class PracticeFormPage extends PageBase {
         driver.findElement(By.xpath("//div[@class='react-datepicker__week']//div[.='" + day + "']")).click();
         return this;
     }
+
+
 }

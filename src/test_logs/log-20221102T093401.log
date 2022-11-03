@@ -1,0 +1,9 @@
+3384 [main] INFO  com.telran.tests.TestBase - Start test with method registerWithJSExecutorTest with data: []
+3456 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[.='Elements']
+6831 [main] INFO  com.telran.utils.MyListener - We have throwable -->Cannot locate an element using xpath=//div[.='Elements']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7JRM91AM', ip: '192.168.0.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: driver.version: EventFiringWebDriver
+6835 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+6836 [main] INFO  com.telran.utils.MyListener - We have throwable -->null

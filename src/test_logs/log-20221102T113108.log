@@ -1,0 +1,11 @@
+5341 [main] INFO  com.telran.tests.TestBase - Start test with method hoverToolTipWithAttribute with data: []
+5391 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[.='Widgets']
+5423 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[.='Widgets']was found
+5650 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Tool Tips']
+5680 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Tool Tips']was found
+5773 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: toolTipButton
+5861 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: toolTipButtonwas found
+5994 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: [aria-describedby='buttonToolTip']
+14297 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: [aria-describedby='buttonToolTip']was found
+14368 [main] INFO  com.telran.tests.TestBase - PASSED hoverToolTipWithAttribute
+14368 [main] INFO  com.telran.tests.TestBase - ______________________________________

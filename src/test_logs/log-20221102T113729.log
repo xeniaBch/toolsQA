@@ -1,0 +1,22 @@
+7099 [main] INFO  com.telran.tests.TestBase - Start test with method hoverToolTipWithAttribute with data: []
+7182 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[.='Widgets']
+7218 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[.='Widgets']was found
+7468 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Tool Tips']
+7521 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Tool Tips']was found
+7716 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: toolTipButton
+7788 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: toolTipButtonwas found
+7875 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .tooltip-inner
+17965 [main] INFO  com.telran.utils.MyListener - We have throwable -->no such element: Unable to locate element: {"method":"css selector","selector":".tooltip-inner"}
+  (Session info: chrome=106.0.5249.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7JRM91AM', ip: '192.168.0.5', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.121, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\Users\79538\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58588}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e0581b3e9656beed78c840698de4d1a3
+*** Element info: {Using=css selector, value=.tooltip-inner}
+17965 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+17966 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+18482 [main] INFO  com.telran.utils.MyListener - Your screenshot is here screenshots/screen2267.png
+18498 [main] INFO  com.telran.tests.TestBase - FAILED hoverToolTipWithAttribute
+18943 [main] INFO  com.telran.tests.TestBase - ______________________________________
