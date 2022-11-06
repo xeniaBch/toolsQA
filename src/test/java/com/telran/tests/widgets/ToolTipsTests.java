@@ -18,4 +18,9 @@ public class ToolTipsTests extends TestBase {
     public void hoverToolTipWithAttribute(){
         new ToolTipsPage(driver).hoverToolTipWithAttribute();
     }
+
+    @Test
+    public void textToolTipTest(){
+        new ToolTipsPage(driver).findTextToolTips();
+    }
 }

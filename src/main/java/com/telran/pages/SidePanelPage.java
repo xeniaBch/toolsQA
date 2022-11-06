@@ -6,7 +6,9 @@ import com.telran.pages.allertsFrameWindows.NestedFramesPage;
 import com.telran.pages.allertsFrameWindows.WindowsPage;
 import com.telran.pages.bookStore.LoginPage;
 import com.telran.pages.bookStore.ProfilePage;
+import com.telran.pages.elements.BrokenLinksImagesPage;
 import com.telran.pages.elements.ButtonsPage;
+import com.telran.pages.elements.LinksPage;
 import com.telran.pages.elements.TextBoxPage;
 import com.telran.pages.forms.PracticeFormPage;
 import com.telran.pages.interactions.DragAndDropPage;
@@ -113,5 +115,20 @@ public class SidePanelPage extends PageBase{
     public ToolTipsPage getToolTips() {
         clickWithJSExecutor(toolTips,0,500);
         return new ToolTipsPage(driver);
+    }
+
+    @FindBy(xpath = "//span[.='Broken Links - Images']")
+    WebElement brokenListImages;
+    public BrokenLinksImagesPage selectBrokenLinksImages() {
+        clickWithJSExecutor(brokenListImages, 0, 400);
+        return new BrokenLinksImagesPage(driver);
+    }
+
+
+    @FindBy(xpath = "//span[.='Links']")
+    WebElement links;
+    public LinksPage selectLinks() {
+        clickWithJSExecutor(links,0, 400);
+        return new LinksPage(driver);
     }
 }

@@ -1,0 +1,20 @@
+5081 [main] INFO  com.telran.tests.TestBase - Start test with method textToolTipTest with data: []
+5129 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[.='Widgets']
+5147 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[.='Widgets']was found
+5272 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Tool Tips']
+5304 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Tool Tips']was found
+5507 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: [aria-describedby='contraryTexToolTip']
+15568 [main] INFO  com.telran.utils.MyListener - We have throwable -->no such element: Unable to locate element: {"method":"css selector","selector":"[aria-describedby='contraryTexToolTip']"}
+  (Session info: chrome=107.0.5304.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-7JRM91AM', ip: '192.168.0.9', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.88, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\79538\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dec98358fcfd7e4ffd83eead0c0603ce
+*** Element info: {Using=css selector, value=[aria-describedby='contraryTexToolTip']}
+15568 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+15568 [main] INFO  com.telran.utils.MyListener - We have throwable -->null
+15853 [main] INFO  com.telran.utils.MyListener - Your screenshot is here screenshots/screen3144.png
+15869 [main] INFO  com.telran.tests.TestBase - FAILED textToolTipTest
+16122 [main] INFO  com.telran.tests.TestBase - ______________________________________

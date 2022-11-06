@@ -1,7 +1,0 @@
-14946 [main] INFO  com.telran.tests.TestBase - Start test with method checkBoxWithJSExecutorTest with data: []
-15113 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='category-cards']/div[2]
-15180 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='category-cards']/div[2]was found
-15630 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Practice Form']
-15711 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Practice Form']was found
-17060 [main] INFO  com.telran.tests.TestBase - PASSED checkBoxWithJSExecutorTest
-17060 [main] INFO  com.telran.tests.TestBase - ______________________________________

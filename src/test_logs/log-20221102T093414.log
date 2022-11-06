@@ -1,9 +1,0 @@
-6379 [main] INFO  com.telran.tests.TestBase - Start test with method registerWithJSExecutorTest with data: []
-6420 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[.='Elements']
-6445 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[.='Elements']was found
-6668 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Text Box']
-6752 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Text Box']was found
-7199 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userName
-8712 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNamewas found
-9281 [main] INFO  com.telran.tests.TestBase - PASSED registerWithJSExecutorTest
-9281 [main] INFO  com.telran.tests.TestBase - ______________________________________
