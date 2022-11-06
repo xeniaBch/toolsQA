@@ -3,6 +3,7 @@ package com.telran.pages.widgets;
 import com.telran.pages.PageBase;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 
 import java.util.List;
@@ -44,7 +45,8 @@ public class ToolTipsPage extends PageBase {
     public ToolTipsPage findTextToolTips() {
         hideAd();
         pause(2000);
-        click(contraryTexToolTipsLink);
+        Actions actions = new Actions(driver);
+        actions.moveToElement(contraryTexToolTipsLink).perform();
         pause(500);
         String actualToolTip = contraryTexToolTipId.getText();
         System.out.println("Retrived tooltip as: " + actualToolTip);
@@ -52,7 +54,7 @@ public class ToolTipsPage extends PageBase {
         if (actualToolTip.equals(expectedToolTip)) System.out.println("pass");
         else System.out.println("fail");
 
-        click(sectionToolTipLink);
+        actions.moveToElement(sectionToolTipLink).perform();
         pause(500);
         String actualToolTip1 = sectionToolTipId.getText();
         System.out.println("Retrived tooltip as: " + actualToolTip1);

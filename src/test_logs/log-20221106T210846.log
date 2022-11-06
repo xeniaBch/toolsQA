@@ -1,0 +1,15 @@
+4287 [main] INFO  com.telran.tests.TestBase - Start test with method textToolTipTest with data: []
+4334 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[.='Widgets']
+4367 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[.='Widgets']was found
+4517 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Tool Tips']
+4542 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Tool Tips']was found
+6768 [Forwarding actions on session afb32e0947a6489b81a8f41a66ad6cd9 to remote] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //a[.='Contrary']
+6794 [Forwarding actions on session afb32e0947a6489b81a8f41a66ad6cd9 to remote] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //a[.='Contrary']was found
+7445 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: contraryTexToolTip
+7474 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: contraryTexToolTipwas found
+7491 [Forwarding actions on session afb32e0947a6489b81a8f41a66ad6cd9 to remote] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //a[.='1.10.32']
+7519 [Forwarding actions on session afb32e0947a6489b81a8f41a66ad6cd9 to remote] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //a[.='1.10.32']was found
+8178 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: sectionToolTip
+8207 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: sectionToolTipwas found
+8229 [main] INFO  com.telran.tests.TestBase - PASSED textToolTipTest
+8229 [main] INFO  com.telran.tests.TestBase - ______________________________________
