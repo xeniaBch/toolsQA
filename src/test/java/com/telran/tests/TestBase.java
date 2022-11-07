@@ -3,7 +3,6 @@ package com.telran.tests;
 import ch.qos.logback.classic.Logger;
 import com.telran.pages.PageBase;
 import com.telran.utils.MyListener;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.slf4j.LoggerFactory;
@@ -14,6 +13,8 @@ import org.testng.annotations.BeforeMethod;
 import java.lang.reflect.Method;
 import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
+
+// run from project folder in cmd  **  mvn clean test -DsurefireXmlFile=src/test/resources/testng.xml **
 
 public class TestBase {
 
@@ -38,7 +39,7 @@ public class TestBase {
     }
 
 
-    @AfterMethod (enabled = false)
+    @AfterMethod (enabled = true)
     public void tearDown(){
         driver.quit();
     }

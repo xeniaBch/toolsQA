@@ -1,0 +1,31 @@
+5907 [main] INFO  com.telran.tests.TestBase - Start test with method addBookToCollectionTest with data: []
+5990 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //h5[contains(.,'Book Store Application')]
+6099 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //h5[contains(.,'Book Store Application')]was found
+6943 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: login
+7019 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: loginwas found
+7350 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userName
+7673 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNamewas found
+7941 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userName
+7966 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNamewas found
+8029 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userName
+8056 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNamewas found
+8180 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: password
+8201 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: passwordwas found
+8277 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: password
+8312 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: passwordwas found
+8385 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: password
+8402 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: passwordwas found
+8461 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: login
+8494 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: loginwas found
+8555 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: searchBox
+8979 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: searchBoxwas found
+9049 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: searchBox
+9069 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: searchBoxwas found
+9118 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: searchBox
+9132 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: searchBoxwas found
+9215 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[@class='mr-2']/a
+9248 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[@class='mr-2']/awas found
+9948 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .text-right.fullButton
+9990 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .text-right.fullButtonwas found
+10078 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: delete-recorde-undefined
+10174 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: delete-recorde-undefinedwas found

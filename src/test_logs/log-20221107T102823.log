@@ -1,0 +1,545 @@
+5548 [main] INFO  com.telran.tests.TestBase - Start test with method fillStudentRegistrationFormTest with data: []
+5590 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='category-cards']/div[2]
+5612 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='category-cards']/div[2]was found
+5745 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Practice Form']
+5782 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Practice Form']was found
+6053 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+6076 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+6158 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+6181 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+6214 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+6229 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+6315 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+6339 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+6475 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+6490 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+6536 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+6548 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+6607 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+6739 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+6842 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+6855 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+6907 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+6935 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+7000 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+7055 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+7172 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+7199 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+7229 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+7242 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+7298 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: [for='gender-radio-1']
+7353 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: [for='gender-radio-1']was found
+7427 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: dateOfBirthInput
+7478 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: dateOfBirthInputwas found
+7631 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+7655 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+7662 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+7679 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+7710 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+7727 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+7728 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "December"]
+7753 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "December"]was found
+8328 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+8363 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+8369 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+8383 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+8399 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+8414 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+8414 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "1990"]
+8434 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "1990"]was found
+8488 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='react-datepicker__week']//div[.='13']
+8512 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='react-datepicker__week']//div[.='13']was found
+8572 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+8591 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+8650 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+8666 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+8706 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+8728 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+8802 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+8821 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+8873 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+8897 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+8941 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+8959 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+8986 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+9006 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+9072 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+9087 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+9135 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-1']/../label
+
+9167 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-1']/../label
+was found
+9227 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-2']/../label
+
+9260 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-2']/../label
+was found
+9325 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-3']/../label
+
+9353 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-3']/../label
+was found
+9416 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: uploadPicture
+9443 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: uploadPicturewas found
+9502 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+9524 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+9592 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+9609 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+9642 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+9660 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+9734 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: state
+9754 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: statewas found
+9809 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+9834 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+9913 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+9937 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+9993 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: city
+10016 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: citywas found
+10084 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+10110 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+10200 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+10210 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+10244 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+10261 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+10281 [Forwarding actions on session 06575a9ad5176a86dccbb10359fad8fd to remote] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+10318 [Forwarding actions on session 06575a9ad5176a86dccbb10359fad8fd to remote] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+10721 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: example-modal-sizes-title-lg
+10747 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: example-modal-sizes-title-lgwas found
+10786 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: closeLargeModal
+10817 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: closeLargeModalwas found
+10913 [main] INFO  com.telran.tests.TestBase - PASSED fillStudentRegistrationFormTest
+10914 [main] INFO  com.telran.tests.TestBase - ______________________________________
+16934 [main] INFO  com.telran.tests.TestBase - Start test with method fillStudentRegistrationFormTestWithCsv with data: [com.telran.utils.model.Student@69e05f61]
+16953 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='category-cards']/div[2]
+16977 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='category-cards']/div[2]was found
+17093 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Practice Form']
+17112 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Practice Form']was found
+17327 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+17541 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+17680 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+17706 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+17772 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+17798 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+17860 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+17906 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+18080 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+18186 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+18458 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+18491 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+18594 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+18624 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+18680 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+18697 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+18738 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+18760 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+18841 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+18858 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+18910 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+18934 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+18973 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+18993 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+19051 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: [for='gender-radio-1']
+19075 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: [for='gender-radio-1']was found
+19150 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: dateOfBirthInput
+19170 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: dateOfBirthInputwas found
+19315 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+19345 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+19352 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+19367 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+19383 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+19399 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+19400 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "December"]
+19422 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "December"]was found
+20036 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+20064 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+20070 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+20088 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+20104 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+20121 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+20121 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "2004"]
+20141 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "2004"]was found
+20202 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='react-datepicker__week']//div[.='15']
+20220 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='react-datepicker__week']//div[.='15']was found
+20282 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+20309 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+20365 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+20386 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+20418 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+20427 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+20496 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+20522 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+20564 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+20584 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+20623 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+20646 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+20682 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+20692 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+20746 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+20770 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+20806 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-1']/../label
+
+20824 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-1']/../label
+was found
+20870 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-2']/../label
+
+20890 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-2']/../label
+was found
+20952 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-3']/../label
+
+20984 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-3']/../label
+was found
+21052 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: uploadPicture
+21073 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: uploadPicturewas found
+21140 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+21163 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+21211 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+21238 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+21268 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+21282 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+21354 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: state
+21377 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: statewas found
+21429 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+21458 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+21534 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+21545 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+21605 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: city
+21630 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: citywas found
+21707 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+21724 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+21810 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+21827 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+21866 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+21908 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+21919 [Forwarding actions on session cfed650d08e12d280761787806ffaabc to remote] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+21952 [Forwarding actions on session cfed650d08e12d280761787806ffaabc to remote] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+22360 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: example-modal-sizes-title-lg
+22397 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: example-modal-sizes-title-lgwas found
+22433 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: closeLargeModal
+22459 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: closeLargeModalwas found
+22556 [main] INFO  com.telran.tests.TestBase - PASSED fillStudentRegistrationFormTestWithCsv
+22556 [main] INFO  com.telran.tests.TestBase - ______________________________________
+27262 [main] INFO  com.telran.tests.TestBase - Start test with method fillStudentRegistrationFormTestWithCsv with data: [com.telran.utils.model.Student@2da3b078]
+27282 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='category-cards']/div[2]
+27316 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='category-cards']/div[2]was found
+27445 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Practice Form']
+27477 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Practice Form']was found
+28069 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+28103 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+28195 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+28223 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+28518 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+28590 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+28658 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+28702 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+28829 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+28855 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+28920 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+28945 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+29010 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+29040 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+29116 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+29140 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+29183 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+29200 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+29277 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+29300 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+29366 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+29388 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+29437 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+29451 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+29509 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: [for='gender-radio-1']
+29531 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: [for='gender-radio-1']was found
+29682 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: dateOfBirthInput
+29705 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: dateOfBirthInputwas found
+29837 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+29862 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+29869 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+29879 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+29895 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+29911 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+29911 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "December"]
+29933 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "December"]was found
+30523 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+30554 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+30563 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+30578 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+30594 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+30609 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+30609 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "2004"]
+30627 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "2004"]was found
+30685 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='react-datepicker__week']//div[.='13']
+30705 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='react-datepicker__week']//div[.='13']was found
+30761 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+30782 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+30844 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+30870 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+30907 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+30920 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+30997 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+31013 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+31055 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+31073 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+31119 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+31134 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+31159 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+31179 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+31246 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+31257 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+31295 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-1']/../label
+
+31325 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-1']/../label
+was found
+31369 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-2']/../label
+
+31389 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-2']/../label
+was found
+31450 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-3']/../label
+
+31480 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-3']/../label
+was found
+31558 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: uploadPicture
+31587 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: uploadPicturewas found
+31643 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+31666 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+31728 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+31756 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+31784 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+31806 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+31887 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: state
+31910 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: statewas found
+31965 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+32004 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+32084 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+32098 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+32154 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: city
+32175 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: citywas found
+32233 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+32263 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+32391 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+32407 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+32495 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+32538 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+32558 [Forwarding actions on session 616d1c3b7c1bbc67758282949f2cebb1 to remote] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+32597 [Forwarding actions on session 616d1c3b7c1bbc67758282949f2cebb1 to remote] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+33042 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: example-modal-sizes-title-lg
+33063 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: example-modal-sizes-title-lgwas found
+33084 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: closeLargeModal
+33140 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: closeLargeModalwas found
+33263 [main] INFO  com.telran.tests.TestBase - PASSED fillStudentRegistrationFormTestWithCsv
+33263 [main] INFO  com.telran.tests.TestBase - ______________________________________
+38997 [main] INFO  com.telran.tests.TestBase - Start test with method fillStudentRegistrationFormTestWithDataProvider with data: [Nevil, Dolgopups, nevil.d@hogwarts.com, 015239655336, C:/tools/greece.jpg, Griffindor, 14, May, 2004]
+39015 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='category-cards']/div[2]
+39041 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='category-cards']/div[2]was found
+39173 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Practice Form']
+39190 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Practice Form']was found
+39604 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+39644 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+39783 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+39815 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+39863 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+39881 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+39946 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+39974 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+40084 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+40117 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+40337 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+40357 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+40660 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+40809 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+40921 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+40936 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+40998 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+41011 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+41114 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+41138 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+41218 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+41243 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+41288 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+41305 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+41381 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: [for='gender-radio-1']
+41401 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: [for='gender-radio-1']was found
+41499 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: dateOfBirthInput
+41547 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: dateOfBirthInputwas found
+41699 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+41731 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+41737 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+41747 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+41762 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+41779 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+41779 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "May"]
+41811 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "May"]was found
+42416 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+42445 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+42453 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+42471 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+42487 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+42505 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+42505 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "2004"]
+42521 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "2004"]was found
+42580 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='react-datepicker__week']//div[.='14']
+42601 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='react-datepicker__week']//div[.='14']was found
+42653 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+42677 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+42742 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+42770 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+42837 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+42860 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+42930 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+42953 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+42992 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+43015 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+43061 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+43080 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+43108 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+43124 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+43189 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+43201 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+43240 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-1']/../label
+
+43268 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-1']/../label
+was found
+43337 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-2']/../label
+
+43362 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-2']/../label
+was found
+43441 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-3']/../label
+
+43471 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-3']/../label
+was found
+43540 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: uploadPicture
+43558 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: uploadPicturewas found
+43649 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+43677 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+43745 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+43772 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+43807 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+43819 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+43906 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: state
+43956 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: statewas found
+44024 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+44056 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+44137 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+44158 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+44235 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: city
+44256 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: citywas found
+44312 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+44337 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+44411 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+44430 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+44481 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+44507 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+44518 [Forwarding actions on session 97763e42a7507b067724d5100284c401 to remote] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+44535 [Forwarding actions on session 97763e42a7507b067724d5100284c401 to remote] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+44934 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: example-modal-sizes-title-lg
+44962 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: example-modal-sizes-title-lgwas found
+45000 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: closeLargeModal
+45064 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: closeLargeModalwas found
+45161 [main] INFO  com.telran.tests.TestBase - PASSED fillStudentRegistrationFormTestWithDataProvider
+45162 [main] INFO  com.telran.tests.TestBase - ______________________________________
+50234 [main] INFO  com.telran.tests.TestBase - Start test with method fillStudentRegistrationFormTestWithDataProvider with data: [Ron, Whisley, ron.w@hogwarts.com, 015212368321, C:/tools/greece.jpg, Griffindor, 16, June, 2004]
+50254 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='category-cards']/div[2]
+50278 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='category-cards']/div[2]was found
+50419 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Practice Form']
+50442 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Practice Form']was found
+50700 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+51034 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+51134 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+51152 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+51208 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: firstName
+51224 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: firstNamewas found
+51300 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+51340 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+51615 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+51683 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+51780 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: lastName
+51811 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: lastNamewas found
+51925 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+51958 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+52070 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+52106 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+52176 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userEmail
+52220 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userEmailwas found
+52322 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+52343 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+52412 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+52432 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+52476 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: userNumber
+52493 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: userNumberwas found
+52560 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: [for='gender-radio-1']
+52591 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: [for='gender-radio-1']was found
+52724 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: dateOfBirthInput
+52745 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: dateOfBirthInputwas found
+52917 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+52946 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+52955 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+52966 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+52981 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__month-select
+52996 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__month-selectwas found
+52996 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "June"]
+53020 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "June"]was found
+53606 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+53633 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+53637 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+53662 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+53676 [main] INFO  com.telran.utils.MyListener - Start find element -->By.cssSelector: .react-datepicker__year-select
+53689 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.cssSelector: .react-datepicker__year-selectwas found
+53690 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: .//option[normalize-space(.) = "2004"]
+53710 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: .//option[normalize-space(.) = "2004"]was found
+53764 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[@class='react-datepicker__week']//div[.='16']
+53785 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[@class='react-datepicker__week']//div[.='16']was found
+53835 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+53861 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+53924 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+53938 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+53973 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+53999 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+54075 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+54095 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+54131 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+54143 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+54185 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+54203 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+54230 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+54251 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+54312 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: subjectsInput
+54330 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: subjectsInputwas found
+54368 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-1']/../label
+
+54395 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-1']/../label
+was found
+54444 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-2']/../label
+
+54473 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-2']/../label
+was found
+54521 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //input[@id='hobbies-checkbox-3']/../label
+
+54552 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //input[@id='hobbies-checkbox-3']/../label
+was found
+54627 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: uploadPicture
+54645 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: uploadPicturewas found
+54716 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+54738 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+54801 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+54827 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+54854 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: currentAddress
+54870 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: currentAddresswas found
+54931 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: state
+54952 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: statewas found
+55011 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+55034 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+55116 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-3-input
+55137 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-3-inputwas found
+55197 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: city
+55220 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: citywas found
+55287 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+55314 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+55392 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: react-select-4-input
+55417 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: react-select-4-inputwas found
+55449 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+55466 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+55476 [Forwarding actions on session 513b4b66bcdd50e4b65ae8f82475060c to remote] INFO  com.telran.utils.MyListener - Start find element -->By.id: submit
+55493 [Forwarding actions on session 513b4b66bcdd50e4b65ae8f82475060c to remote] INFO  com.telran.utils.MyListener - Element with locatorBy.id: submitwas found
+55897 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: example-modal-sizes-title-lg
+55916 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: example-modal-sizes-title-lgwas found
+55947 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: closeLargeModal
+55962 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: closeLargeModalwas found
+56038 [main] INFO  com.telran.tests.TestBase - PASSED fillStudentRegistrationFormTestWithDataProvider
+56038 [main] INFO  com.telran.tests.TestBase - ______________________________________

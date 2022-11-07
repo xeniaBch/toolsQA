@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-07T10:40:51 MEZ" name="Smoke" finished-at="2022-11-07T10:41:40 MEZ" duration-ms="48905">
+    <groups>
+    </groups>
+    <test started-at="2022-11-07T10:40:51 MEZ" name="SmokeTest" finished-at="2022-11-07T10:41:40 MEZ" duration-ms="48905">
+      <class name="com.telran.tests.forms.PracticeFormsTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:40:51 MEZ" name="init" finished-at="2022-11-07T10:40:55 MEZ" duration-ms="4326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:40:55 MEZ" name="startTest" finished-at="2022-11-07T10:40:55 MEZ" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.telran.tests.forms.PracticeFormsTest.fillStudentRegistrationFormTest()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4b4a2fa8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="ensurePreconditions()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:40:55 MEZ" name="ensurePreconditions" finished-at="2022-11-07T10:40:56 MEZ" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ensurePreconditions -->
+        <test-method signature="fillStudentRegistrationFormTest()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:40:56 MEZ" name="fillStudentRegistrationFormTest" finished-at="2022-11-07T10:41:01 MEZ" duration-ms="5292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillStudentRegistrationFormTest -->
+        <test-method is-config="true" signature="closeDialog()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:01 MEZ" name="closeDialog" finished-at="2022-11-07T10:41:01 MEZ" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDialog -->
+        <test-method is-config="true" signature="stopTest(org.testng.ITestResult)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:01 MEZ" name="stopTest" finished-at="2022-11-07T10:41:01 MEZ" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fillStudentRegistrationFormTest status=SUCCESS method=PracticeFormsTest.fillStudentRegistrationFormTest()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:01 MEZ" name="tearDown" finished-at="2022-11-07T10:41:01 MEZ" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:01 MEZ" name="init" finished-at="2022-11-07T10:41:05 MEZ" duration-ms="3463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:05 MEZ" name="startTest" finished-at="2022-11-07T10:41:05 MEZ" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.telran.tests.forms.PracticeFormsTest.fillStudentRegistrationFormTestWithCsv(com.telran.utils.model.Student)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4607d78b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="ensurePreconditions()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:05 MEZ" name="ensurePreconditions" finished-at="2022-11-07T10:41:06 MEZ" duration-ms="893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ensurePreconditions -->
+        <test-method signature="fillStudentRegistrationFormTestWithCsv(com.telran.utils.model.Student)[pri:2, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:06 MEZ" name="fillStudentRegistrationFormTestWithCsv" data-provider="newStudentWithCsv" finished-at="2022-11-07T10:41:10 MEZ" duration-ms="4709" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.telran.utils.model.Student@3bdb2c78]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillStudentRegistrationFormTestWithCsv -->
+        <test-method is-config="true" signature="closeDialog()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:10 MEZ" name="closeDialog" finished-at="2022-11-07T10:41:11 MEZ" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDialog -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:11 MEZ" name="tearDown" finished-at="2022-11-07T10:41:11 MEZ" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stopTest(org.testng.ITestResult)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:11 MEZ" name="stopTest" finished-at="2022-11-07T10:41:11 MEZ" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fillStudentRegistrationFormTestWithCsv status=SUCCESS method=PracticeFormsTest.fillStudentRegistrationFormTestWithCsv(com.telran.utils.model.Student)[pri:2, instance:com.telran.tests.forms.PracticeFormsTest@495ee280] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTest -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:11 MEZ" name="init" finished-at="2022-11-07T10:41:14 MEZ" duration-ms="3239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:14 MEZ" name="startTest" finished-at="2022-11-07T10:41:14 MEZ" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.telran.tests.forms.PracticeFormsTest.fillStudentRegistrationFormTestWithCsv(com.telran.utils.model.Student)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@3b28b7b0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="ensurePreconditions()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:14 MEZ" name="ensurePreconditions" finished-at="2022-11-07T10:41:15 MEZ" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ensurePreconditions -->
+        <test-method signature="fillStudentRegistrationFormTestWithCsv(com.telran.utils.model.Student)[pri:2, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:15 MEZ" name="fillStudentRegistrationFormTestWithCsv" data-provider="newStudentWithCsv" finished-at="2022-11-07T10:41:20 MEZ" duration-ms="4965" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.telran.utils.model.Student@d7109be]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillStudentRegistrationFormTestWithCsv -->
+        <test-method is-config="true" signature="closeDialog()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:20 MEZ" name="closeDialog" finished-at="2022-11-07T10:41:20 MEZ" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDialog -->
+        <test-method is-config="true" signature="stopTest(org.testng.ITestResult)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:20 MEZ" name="stopTest" finished-at="2022-11-07T10:41:20 MEZ" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fillStudentRegistrationFormTestWithCsv status=SUCCESS method=PracticeFormsTest.fillStudentRegistrationFormTestWithCsv(com.telran.utils.model.Student)[pri:2, instance:com.telran.tests.forms.PracticeFormsTest@495ee280] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:20 MEZ" name="tearDown" finished-at="2022-11-07T10:41:20 MEZ" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:20 MEZ" name="init" finished-at="2022-11-07T10:41:24 MEZ" duration-ms="3639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:24 MEZ" name="startTest" finished-at="2022-11-07T10:41:24 MEZ" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.telran.tests.forms.PracticeFormsTest.fillStudentRegistrationFormTestWithDataProvider(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@22048bd6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="ensurePreconditions()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:24 MEZ" name="ensurePreconditions" finished-at="2022-11-07T10:41:24 MEZ" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ensurePreconditions -->
+        <test-method signature="fillStudentRegistrationFormTestWithDataProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:24 MEZ" name="fillStudentRegistrationFormTestWithDataProvider" data-provider="newStudent" finished-at="2022-11-07T10:41:30 MEZ" duration-ms="5648" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nevil]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dolgopups]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nevil.d@hogwarts.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[015239655336]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:/tools/greece.jpg]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Griffindor]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[May]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillStudentRegistrationFormTestWithDataProvider -->
+        <test-method is-config="true" signature="closeDialog()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:30 MEZ" name="closeDialog" finished-at="2022-11-07T10:41:30 MEZ" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDialog -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:30 MEZ" name="tearDown" finished-at="2022-11-07T10:41:30 MEZ" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stopTest(org.testng.ITestResult)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:30 MEZ" name="stopTest" finished-at="2022-11-07T10:41:30 MEZ" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fillStudentRegistrationFormTestWithDataProvider status=SUCCESS method=PracticeFormsTest.fillStudentRegistrationFormTestWithDataProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.telran.tests.forms.PracticeFormsTest@495ee280] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTest -->
+        <test-method is-config="true" signature="init()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:30 MEZ" name="init" finished-at="2022-11-07T10:41:33 MEZ" duration-ms="3215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:33 MEZ" name="startTest" finished-at="2022-11-07T10:41:33 MEZ" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.telran.tests.forms.PracticeFormsTest.fillStudentRegistrationFormTestWithDataProvider(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@566c1e71]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="ensurePreconditions()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:33 MEZ" name="ensurePreconditions" finished-at="2022-11-07T10:41:34 MEZ" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ensurePreconditions -->
+        <test-method signature="fillStudentRegistrationFormTestWithDataProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:34 MEZ" name="fillStudentRegistrationFormTestWithDataProvider" data-provider="newStudent" finished-at="2022-11-07T10:41:39 MEZ" duration-ms="5412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ron]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Whisley]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ron.w@hogwarts.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[015212368321]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[C:/tools/greece.jpg]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Griffindor]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2004]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillStudentRegistrationFormTestWithDataProvider -->
+        <test-method is-config="true" signature="closeDialog()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:39 MEZ" name="closeDialog" finished-at="2022-11-07T10:41:39 MEZ" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDialog -->
+        <test-method is-config="true" signature="stopTest(org.testng.ITestResult)[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:39 MEZ" name="stopTest" finished-at="2022-11-07T10:41:39 MEZ" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fillStudentRegistrationFormTestWithDataProvider status=SUCCESS method=PracticeFormsTest.fillStudentRegistrationFormTestWithDataProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.telran.tests.forms.PracticeFormsTest@495ee280] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.telran.tests.forms.PracticeFormsTest@495ee280]" started-at="2022-11-07T10:41:39 MEZ" name="tearDown" finished-at="2022-11-07T10:41:40 MEZ" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.telran.tests.forms.PracticeFormsTest -->
+    </test> <!-- SmokeTest -->
+  </suite> <!-- Smoke -->
+</testng-results>

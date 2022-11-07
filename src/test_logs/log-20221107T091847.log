@@ -1,0 +1,11 @@
+5093 [main] INFO  com.telran.tests.TestBase - Start test with method robotKeyEventTest with data: []
+5172 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //div[.='Elements']
+5219 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //div[.='Elements']was found
+5627 [main] INFO  com.telran.utils.MyListener - Start find element -->By.xpath: //span[.='Upload and Download']
+5787 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.xpath: //span[.='Upload and Download']was found
+8206 [main] INFO  com.telran.utils.MyListener - Start find element -->By.id: uploadFile
+8243 [main] INFO  com.telran.utils.MyListener - Element with locatorBy.id: uploadFilewas found
+8270 [Forwarding actions on session 5a5ff46eab90f991a5432fc862b8bf26 to remote] INFO  com.telran.utils.MyListener - Start find element -->By.id: uploadFile
+8293 [Forwarding actions on session 5a5ff46eab90f991a5432fc862b8bf26 to remote] INFO  com.telran.utils.MyListener - Element with locatorBy.id: uploadFilewas found
+8696 [main] INFO  com.telran.tests.TestBase - PASSED robotKeyEventTest
+8696 [main] INFO  com.telran.tests.TestBase - ______________________________________
