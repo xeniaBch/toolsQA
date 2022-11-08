@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Forms" verbose="1" >
+    <test name="Forms" >
+        <classes>
+            <class name="com.telran.tests.forms.PracticeFormsTest">
+            <parameter name="firstname" value="Kate"/>
+            <parameter name="lastname" value="Salivan"/>
+            <parameter name="email" value="kate@gmail.com"/>
+            <parameter name="phone" value="10000078945"/>
+            <parameter name="address" value="New Castle Str. 25">
+            </parameter>
+            </class>
+        </classes>
+    </test>
+</suite>

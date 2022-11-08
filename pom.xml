@@ -55,8 +55,9 @@
                 <version>2.21.0</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/testngUser.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/testngForms.xml</suiteXmlFile>
 <!--
+                        <suiteXmlFile>src/test/resources/testngUser.xml</suiteXmlFile>
                         <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
 -->
                     </suiteXmlFiles>

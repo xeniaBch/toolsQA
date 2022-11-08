@@ -10,6 +10,7 @@ import com.telran.utils.model.Student;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class PracticeFormsTest extends TestBase {
@@ -20,7 +21,7 @@ public class PracticeFormsTest extends TestBase {
         new SidePanelPage(driver).selectPracticeForm();
     }
 
-    @Test
+    @Test (enabled = false)
     public void fillStudentRegistrationFormTest(){
         new PracticeFormPage(driver).hideIframes()
                 .enterPersonalData(StudentData.FIRST_NAME, StudentData.LAST_NAME, StudentData.EMAIL, StudentData.PHONE_NUMBER)
@@ -37,7 +38,25 @@ public class PracticeFormsTest extends TestBase {
         Assert.assertTrue(new PracticeFormPage(driver).getTitleOfDialog().contains("Thanks for submitting"));
     }
 
-    @Test(dataProvider = "newStudent", dataProviderClass = DataProviders.class, priority = 2)
+    @Test
+    @Parameters ({"firstname", "lastname", "email", "phone", "address"})
+    public void fillStudentRegistrationFormWithParametersTest(String firstname, String lastname, String email, String phone, String address){
+        new PracticeFormPage(driver).hideIframes()
+                .enterPersonalData(firstname, lastname, email,phone)
+                .selectGender(StudentData.GENDER)
+                //   .typeOfDate(StudentData.BIRTH_DATE)
+                .chooseDate("December", "1980", "13")
+                .addSubject(StudentData.SUBJECTS)
+                .chooseHobbies(StudentData.HOBBIES)
+                .uploadFile(StudentData.PHOTO_PATH)
+                .enterAddress(address)
+                .inputState(StudentData.STATE)
+                .inputCity(StudentData.CITY)
+                .submit();
+        Assert.assertTrue(new PracticeFormPage(driver).getTitleOfDialog().contains("Thanks for submitting"));
+    }
+
+    @Test(dataProvider = "newStudent", dataProviderClass = DataProviders.class, priority = 2, enabled = false)
     public void fillStudentRegistrationFormTestWithDataProvider(String firstName, String lastName, String email, String phone, String path, String address, String day, String month, String year){
         new PracticeFormPage(driver).hideIframes()
                 .enterPersonalData(firstName, lastName, email, phone)
@@ -53,7 +72,7 @@ public class PracticeFormsTest extends TestBase {
         Assert.assertTrue(new PracticeFormPage(driver).getTitleOfDialog().contains("Thanks for submitting"));
     }
 
-    @Test(dataProvider = "newStudentWithCsv", dataProviderClass = DataProviders.class, priority = 2)
+    @Test(dataProvider = "newStudentWithCsv", dataProviderClass = DataProviders.class, priority = 2, enabled = false)
     public void fillStudentRegistrationFormTestWithCsv(Student student){
         new PracticeFormPage(driver).hideIframes()
                 .enterPersonalData(student.getFirtsname(), student.getLastname(), student.getEmail(), student.getPhone())
